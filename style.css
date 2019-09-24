@@ -1,0 +1,50 @@
+body{ 
+background-color:#785e4d;  
+font-family: 'Yatra One', cursive;
+font-size:40px;
+text-align:center;
+background-image:url("http://fieryforums.efi.com/attachment.php?attachmentid=392&stc=1&d=1299784170" );
+margin:100px 100px 100px 100px; 
+padding: 50px 50px 50px 50px;
+color:WhiteSmoke ;
+ word-spacing: .5em;
+
+} 
+h6{ 
+text-align:center;
+;
+
+}
+nav{
+  background-image:url("https://images4.alphacoders.com/784/thumb-1920-78424.jpg");
+  border:solid #785e4d 10px;
+  font-family: 'Mansalva', cursive;
+  font-size:1.1em; 
+}
+h1{
+  font-size:60px;
+  text-shadow: 1px 1px 10px rgb(9, 73, 200);
+
+}
+h3{
+  text-align:center;
+  text-decoration: none;
+   
+   
+}
+p{
+  background-color:  SlateGrey ;
+  border:  SaddleBrown  30px ;
+  
+  border-style:double;
+  border-radius: 10px;
+  font-size:20px;
+  text-spacing:1.1px;
+  
+ 
+  
+}
+
+
+
+

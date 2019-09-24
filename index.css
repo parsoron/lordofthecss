@@ -1,0 +1,35 @@
+body{ 
+background-color:#3f4044;  
+font-family: 'Yatra One', cursive;
+font-size:40px;
+text-align:center;
+background-image:url("http://fieryforums.efi.com/attachment.php?attachmentid=392&stc=1&d=1299784170" );
+margin:100px 100px 100px 100px; 
+padding: 50px 50px 50px 50px;
+color:black ;
+ word-spacing: .5em;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b7/Unico_Anello.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center center;
+  font-family: 'Permanent Marker', cursive;
+}
+p{
+  background-color:  SlateGrey ;
+  border:  DarkSlateGray   30px ;
+  border-style:double;
+  border-radius: 10px;
+  font-size:20px;
+
+}
+nav{
+  border:solid DarkSlateGray  20px;
+  background-image:url("https://image.freepik.com/free-vector/abstract-pattern-black-color_1051-1061.jpg")
+}
+h2{
+  text-shadow: 1px 1px 10px rgb(9, 73, 200);;
+}
+h4{
+  text-shadow: 1px 1px 10px rgb(9, 73, 200);;
+}
